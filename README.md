@@ -31,6 +31,9 @@ For more detail about package version check the [requirements.txt](requirements.
 
 ## Installing
 
+!! I use Windows and git bash for the development !!
+!! I'm not really sure if the command for the Linux and MacOS is working !!
+
 Clone or download the project
 ```
 $ git clone https://github.com/MarcelIrawan/django-template.git
