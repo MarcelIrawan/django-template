@@ -1,0 +1,4 @@
+Django
+djangorestframework
+django-rest-auth
+django-allauth
