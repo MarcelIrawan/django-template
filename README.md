@@ -75,6 +75,6 @@ Linux or MacOS
 
 ## Generate new Django Secret Key
 
-I delete the secret key in this project [setting.py](https://github.com/MarcelIrawan/django-template/blob/06f4d973292df32a9a29ab6e16ee3c89c052fa1d/base/settings.py#L23)
+I delete the secret key in this project [setting.py](https://github.com/MarcelIrawan/django-template/blob/main/base/settings.py#L23)
 
 You can easily generate new code using [Djecrety](https://djecrety.ir/) - by [mrouhi13](https://github.com/mrouhi13)
